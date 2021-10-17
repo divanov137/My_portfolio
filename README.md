@@ -3,7 +3,7 @@
 
 
 # [Residential Properties - outlier detection and sales forecasting](https://github.com/divanov137/Residences)
-Analyse residential property datasets from:
+Analyse residential property datasets from (CHECK):
 1. https://www.propertypriceregister.ie/
 Residential Property Price Register - includes information about all residence sales made in Ireland since 2010
 2. https://data.cso.ie/

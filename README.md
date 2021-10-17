@@ -4,9 +4,9 @@
 
 # [Residential Properties - outlier detection and sales forecasting](https://github.com/divanov137/Residences)
 Analyse residential property datasets from:
-1) https://www.propertypriceregister.ie/
+1. https://www.propertypriceregister.ie/
 Residential Property Price Register - includes information about all residence sales made in Ireland since 2010
-3) https://data.cso.ie/
+2. https://data.cso.ie/
 Residential Propery Price Index (RPPI) - shows how the RPPI changes with time
 
 Content:
